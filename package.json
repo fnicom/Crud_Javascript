@@ -1,0 +1,24 @@
+{
+  "name": "Crud_Javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnicom/Crud_Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnicom/Crud_Javascript/issues"
+  },
+  "homepage": "https://github.com/fnicom/Crud_Javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
